@@ -33,12 +33,13 @@ Programador-clases/
 ├── Fixtures/               # Imágenes y recursos
 │   ├── avisos/
 │   ├── horas/
-│   └── ... 
+│   └── ...
 ├── images/                 # Capturas de pantalla
 │   ├── errors/             # Capturas de errores
-│   └── ... 
+│   └── ...
 ├── programacion_clases_log.txt
 └── README.md
+
 ---
 
 ## ⚙️ Instalación
