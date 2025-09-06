@@ -26,21 +26,19 @@ El script `acceso_web.py` realiza las siguientes tareas:
 
 ---
 
-## 📁 Estructura del proyecto
+📁 Estructura del proyecto
 
 Programador-clases/
-├── acceso_web.py # Script principal
-├── Fixtures/ # Imágenes y recursos
-│ ├── avisos/
-│ ├── horas/
-│ └── ...
-├── images/ # Capturas de pantalla
-│ ├── errors/ # Capturas de errores
-│ └── ...
+├── acceso_web.py           # Script principal
+├── Fixtures/               # Imágenes y recursos
+│   ├── avisos/
+│   ├── horas/
+│   └── ... 
+├── images/                 # Capturas de pantalla
+│   ├── errors/             # Capturas de errores
+│   └── ... 
 ├── programacion_clases_log.txt
 └── README.md
-
-
 ---
 
 ## ⚙️ Instalación
