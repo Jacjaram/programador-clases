@@ -1,0 +1,1125 @@
+2025-07-30 02:48:02 - Iniciando automatización de programación de clases
+2025-07-30 02:48:07 - Actividad simulada para activar pantalla
+2025-07-30 02:48:08 - Cursor movido para evitar FAILSAFE
+2025-07-30 02:48:09 - 0_Captura de pantalla inicial guardada
+2025-07-30 02:48:09 - Navegador abierto
+2025-07-30 02:48:19 - [!] Error en el intento 1 buscando imagen Fixtures\actualizar.png: 
+2025-07-30 02:48:20 - [!] Error en el intento 2 buscando imagen Fixtures\actualizar.png: 
+2025-07-30 02:48:22 - [!] Error en el intento 3 buscando imagen Fixtures\actualizar.png: 
+2025-07-30 02:48:23 - [✗] No se logró detectar la imagen Fixtures\actualizar.png después de 3 intentos.
+2025-07-30 02:48:29 - [✓] Se detectó y cerró un elemento: C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png
+2025-07-30 02:48:33 - [✓] Se detectó y cerró un elemento: C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png
+2025-07-30 02:48:35 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-07-30 02:48:37 - Click en botón Programar
+2025-07-30 02:49:03 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-07-30 02:49:03 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-07-30 02:49:03 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-07-30 02:49:03 - [–] No se detectaron elementos opcionales (cerrar, omitir, etc.)
+2025-07-30 02:49:05 - [✓] Se detectó y se seleccionó: Fixtures\fecha.png
+2025-07-30 02:49:09 - Día seleccionado
+2025-07-30 02:49:15 - [✓] Imagen detectada: Fixtures\horas\9_00am.png en Box(left=np.int64(726), top=np.int64(579), width=76, height=25)
+2025-07-30 02:49:21 - [✓] Se detectó y se seleccionó: Fixtures\programar.png
+2025-07-30 02:49:24 - Primera hora programada 9_00am
+2025-07-30 02:49:31 - Click en botón Programar
+2025-07-30 02:49:56 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-07-30 02:49:57 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-07-30 02:49:57 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-07-30 02:49:57 - [–] No se detectaron elementos opcionales (cerrar, omitir, etc.)
+2025-07-30 02:49:59 - [✓] Se detectó y se seleccionó: Fixtures\fecha.png
+2025-07-30 02:50:03 - Día seleccionado
+2025-07-30 02:50:09 - [!] Error buscando imagen Fixtures\horas\10_40am.png: 
+2025-07-30 02:50:09 - ERROR: 'NoneType' object is not subscriptable
+2025-07-30 02:50:09 - Captura de pantalla de error guardada como error_20250730_025009.png
+2025-07-30 07:25:56 - Iniciando automatización de programación de clases
+2025-07-30 07:26:00 - Actividad simulada para activar pantalla
+2025-07-30 07:26:02 - Cursor movido para evitar FAILSAFE
+2025-07-30 07:26:02 - 0_Captura de pantalla inicial guardada
+2025-07-30 07:26:02 - Navegador abierto
+2025-07-30 07:26:13 - [!] Error en el intento 1 buscando imagen Fixtures\actualizar.png: 
+2025-07-30 07:26:14 - [!] Error en el intento 2 buscando imagen Fixtures\actualizar.png: 
+2025-07-30 07:26:15 - [!] Error en el intento 3 buscando imagen Fixtures\actualizar.png: 
+2025-07-30 07:26:16 - [✗] No se logró detectar la imagen Fixtures\actualizar.png después de 3 intentos.
+2025-07-30 07:26:23 - [✓] Se detectó y cerró un elemento: C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png
+2025-07-30 07:26:27 - [✓] Se detectó y cerró un elemento: C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png
+2025-07-30 07:26:29 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-07-30 07:26:31 - Click en botón Programar
+2025-07-30 07:26:56 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-07-30 07:26:57 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-07-30 07:26:57 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-07-30 07:26:57 - [–] No se detectaron elementos opcionales (cerrar, omitir, etc.)
+2025-07-30 07:26:59 - [✓] Se detectó y se seleccionó: Fixtures\fecha.png
+2025-07-30 07:27:03 - Día seleccionado
+2025-07-30 07:27:09 - [✓] Imagen detectada: Fixtures\horas\9_00am.png en Box(left=np.int64(726), top=np.int64(579), width=76, height=25)
+2025-07-30 07:27:14 - [!] Error en el intento 1 buscando imagen Fixtures\programar.png: 
+2025-07-30 07:27:15 - [!] Error en el intento 2 buscando imagen Fixtures\programar.png: 
+2025-07-30 07:27:16 - [!] Error en el intento 3 buscando imagen Fixtures\programar.png: 
+2025-07-30 07:27:17 - [✗] No se logró detectar la imagen Fixtures\programar.png después de 3 intentos.
+2025-07-30 07:27:17 - Primera hora programada 9_00am
+2025-07-30 07:27:24 - Click en botón Programar
+2025-07-30 07:29:46 - Iniciando automatización de programación de clases
+2025-07-30 07:29:50 - Actividad simulada para activar pantalla
+2025-07-30 07:29:52 - Cursor movido para evitar FAILSAFE
+2025-07-30 07:29:52 - 0_Captura de pantalla inicial guardada
+2025-07-30 07:29:52 - Navegador abierto
+2025-07-30 07:30:03 - [!] Error en el intento 1 buscando imagen Fixtures\actualizar.png: 
+2025-07-30 07:30:04 - [!] Error en el intento 2 buscando imagen Fixtures\actualizar.png: 
+2025-07-30 07:30:05 - [!] Error en el intento 3 buscando imagen Fixtures\actualizar.png: 
+2025-07-30 07:30:06 - [✗] No se logró detectar la imagen Fixtures\actualizar.png después de 3 intentos.
+2025-07-30 07:30:13 - [✓] Se detectó y cerró un elemento: C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png
+2025-07-30 07:30:17 - [✓] Se detectó y cerró un elemento: C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png
+2025-07-30 07:30:19 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-07-30 07:30:21 - Click en botón Programar
+2025-07-30 07:30:46 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-07-30 07:30:46 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-07-30 07:30:47 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-07-30 07:30:47 - [–] No se detectaron elementos opcionales (cerrar, omitir, etc.)
+2025-07-30 07:30:48 - [✓] Se detectó y se seleccionó: Fixtures\fecha.png
+2025-07-30 07:30:53 - Día seleccionado
+2025-07-30 07:30:59 - [✓] Imagen detectada: Fixtures\horas\9_00am.png en Box(left=np.int64(726), top=np.int64(579), width=76, height=25)
+2025-07-30 07:33:26 - Iniciando automatización de programación de clases
+2025-07-30 07:33:31 - Actividad simulada para activar pantalla
+2025-07-30 07:33:32 - Cursor movido para evitar FAILSAFE
+2025-07-30 07:33:33 - 0_Captura de pantalla inicial guardada
+2025-07-30 07:33:33 - Navegador abierto
+2025-07-30 07:33:43 - [!] Error en el intento 1 buscando imagen Fixtures\actualizar.png: 
+2025-07-30 07:33:45 - [!] Error en el intento 2 buscando imagen Fixtures\actualizar.png: 
+2025-07-30 07:33:46 - [!] Error en el intento 3 buscando imagen Fixtures\actualizar.png: 
+2025-07-30 07:33:47 - [✗] No se logró detectar la imagen Fixtures\actualizar.png después de 3 intentos.
+2025-07-30 07:33:54 - [✓] Se detectó y cerró un elemento: C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png
+2025-07-30 07:33:58 - [✓] Se detectó y cerró un elemento: C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png
+2025-07-30 07:34:00 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-07-30 07:34:02 - Click en botón Programar
+2025-07-30 07:34:27 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-07-30 07:34:27 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-07-30 07:34:28 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-07-30 07:34:28 - [–] No se detectaron elementos opcionales (cerrar, omitir, etc.)
+2025-07-30 07:34:29 - [✓] Se detectó y se seleccionó: Fixtures\fecha.png
+2025-07-30 07:34:34 - Día seleccionado
+2025-07-30 07:34:40 - [✓] Imagen detectada: Fixtures\horas\9_00am.png en Box(left=np.int64(726), top=np.int64(579), width=76, height=25)
+2025-07-30 07:37:10 - Iniciando automatización de programación de clases
+2025-07-30 07:37:15 - Actividad simulada para activar pantalla
+2025-07-30 07:37:16 - Cursor movido para evitar FAILSAFE
+2025-07-30 07:37:16 - 0_Captura de pantalla inicial guardada
+2025-07-30 07:37:17 - Navegador abierto
+2025-07-30 07:37:27 - [!] Error en el intento 1 buscando imagen Fixtures\actualizar.png: 
+2025-07-30 07:37:29 - [!] Error en el intento 2 buscando imagen Fixtures\actualizar.png: 
+2025-07-30 07:37:30 - [!] Error en el intento 3 buscando imagen Fixtures\actualizar.png: 
+2025-07-30 07:37:31 - [✗] No se logró detectar la imagen Fixtures\actualizar.png después de 3 intentos.
+2025-07-30 07:37:36 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-07-30 07:37:36 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-07-30 07:37:37 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-07-30 07:37:37 - [–] No se detectaron elementos opcionales (cerrar, omitir, etc.)
+2025-07-30 07:37:38 - Click en botón Programar
+2025-07-30 07:38:05 - [✓] Se detectó y cerró un elemento: C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png
+2025-07-30 07:38:09 - [✓] Se detectó y cerró un elemento: C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png
+2025-07-30 07:38:11 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-07-30 07:38:13 - [✓] Se detectó y se seleccionó: Fixtures\fecha.png
+2025-07-30 07:38:18 - Día seleccionado
+2025-07-30 07:38:23 - [✓] Imagen detectada: Fixtures\horas\9_00am.png en Box(left=np.int64(719), top=np.int64(573), width=91, height=37)
+2025-07-30 07:38:30 - [✓] Se detectó y se seleccionó: Fixtures\programar.png
+2025-07-30 07:38:33 - Primera hora programada 9_00am
+2025-07-30 07:38:39 - Click en botón Programar
+2025-07-30 07:39:18 - Iniciando automatización de programación de clases
+2025-07-30 07:39:23 - Actividad simulada para activar pantalla
+2025-07-30 07:39:24 - Cursor movido para evitar FAILSAFE
+2025-07-30 07:39:24 - 0_Captura de pantalla inicial guardada
+2025-07-30 07:39:25 - Navegador abierto
+2025-07-30 07:39:35 - [!] Error en el intento 1 buscando imagen Fixtures\actualizar.png: 
+2025-07-30 07:39:36 - [!] Error en el intento 2 buscando imagen Fixtures\actualizar.png: 
+2025-07-30 07:39:38 - [!] Error en el intento 3 buscando imagen Fixtures\actualizar.png: 
+2025-07-30 07:39:39 - [✗] No se logró detectar la imagen Fixtures\actualizar.png después de 3 intentos.
+2025-07-30 07:39:45 - [✓] Se detectó y cerró un elemento: C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png
+2025-07-30 07:39:49 - [✓] Se detectó y cerró un elemento: C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png
+2025-07-30 07:39:51 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-07-30 07:39:53 - Click en botón Programar
+2025-07-30 07:40:19 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-07-30 07:40:19 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-07-30 07:40:19 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-07-30 07:40:19 - [–] No se detectaron elementos opcionales (cerrar, omitir, etc.)
+2025-07-30 07:40:21 - [✓] Se detectó y se seleccionó: Fixtures\fecha.png
+2025-07-30 07:40:26 - Día seleccionado
+2025-07-30 07:40:31 - [✓] Imagen detectada: Fixtures\horas\10_40am.png en Box(left=np.int64(728), top=np.int64(756), width=80, height=25)
+2025-07-30 07:43:15 - Iniciando automatización de programación de clases
+2025-07-30 07:43:20 - Actividad simulada para activar pantalla
+2025-07-30 07:43:21 - Cursor movido para evitar FAILSAFE
+2025-07-30 07:43:22 - 0_Captura de pantalla inicial guardada
+2025-07-30 07:43:22 - Navegador abierto
+2025-07-30 07:43:32 - [!] Error en el intento 1 buscando imagen Fixtures\actualizar.png: 
+2025-07-30 07:43:34 - [!] Error en el intento 2 buscando imagen Fixtures\actualizar.png: 
+2025-07-30 07:43:35 - [!] Error en el intento 3 buscando imagen Fixtures\actualizar.png: 
+2025-07-30 07:43:36 - [✗] No se logró detectar la imagen Fixtures\actualizar.png después de 3 intentos.
+2025-07-30 07:43:43 - [✓] Se detectó y cerró un elemento: C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png
+2025-07-30 07:43:47 - [✓] Se detectó y cerró un elemento: C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png
+2025-07-30 07:43:49 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-07-30 07:43:51 - Click en botón Programar
+2025-07-30 07:44:16 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-07-30 07:44:16 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-07-30 07:44:17 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-07-30 07:44:17 - [–] No se detectaron elementos opcionales (cerrar, omitir, etc.)
+2025-07-30 07:44:18 - [✓] Se detectó y se seleccionó: Fixtures\fecha.png
+2025-07-30 07:44:23 - Día seleccionado
+2025-07-30 07:44:29 - [✓] Imagen detectada: Fixtures\horas\9_00am.png en Box(left=np.int64(719), top=np.int64(573), width=91, height=37)
+2025-07-30 07:46:46 - Iniciando automatización de programación de clases
+2025-07-30 07:46:51 - Actividad simulada para activar pantalla
+2025-07-30 07:46:52 - Cursor movido para evitar FAILSAFE
+2025-07-30 07:46:53 - 0_Captura de pantalla inicial guardada
+2025-07-30 07:46:53 - Navegador abierto
+2025-07-30 07:47:03 - [!] Error en el intento 1 buscando imagen Fixtures\actualizar.png: 
+2025-07-30 07:47:05 - [!] Error en el intento 2 buscando imagen Fixtures\actualizar.png: 
+2025-07-30 07:47:06 - [!] Error en el intento 3 buscando imagen Fixtures\actualizar.png: 
+2025-07-30 07:47:07 - [✗] No se logró detectar la imagen Fixtures\actualizar.png después de 3 intentos.
+2025-07-30 07:47:14 - [✓] Se detectó y cerró un elemento: C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png
+2025-07-30 07:47:18 - [✓] Se detectó y cerró un elemento: C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png
+2025-07-30 07:47:20 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-07-30 07:47:22 - Click en botón Programar
+2025-07-30 07:47:47 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-07-30 07:47:47 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-07-30 07:47:48 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-07-30 07:47:48 - [–] No se detectaron elementos opcionales (cerrar, omitir, etc.)
+2025-07-30 07:47:49 - [✓] Se detectó y se seleccionó: Fixtures\fecha.png
+2025-07-30 07:47:54 - Día seleccionado
+2025-07-30 07:48:00 - [✓] Imagen detectada: Fixtures\horas\9_00am.png en Box(left=np.int64(719), top=np.int64(692), width=91, height=37)
+2025-07-30 07:48:28 - Iniciando automatización de programación de clases
+2025-07-30 07:48:32 - Actividad simulada para activar pantalla
+2025-07-30 07:48:34 - Cursor movido para evitar FAILSAFE
+2025-07-30 07:48:34 - 0_Captura de pantalla inicial guardada
+2025-07-30 07:48:34 - Navegador abierto
+2025-07-30 07:48:45 - [!] Error en el intento 1 buscando imagen Fixtures\actualizar.png: 
+2025-07-30 07:48:46 - [!] Error en el intento 2 buscando imagen Fixtures\actualizar.png: 
+2025-07-30 07:48:47 - [!] Error en el intento 3 buscando imagen Fixtures\actualizar.png: 
+2025-07-30 07:48:48 - [✗] No se logró detectar la imagen Fixtures\actualizar.png después de 3 intentos.
+2025-07-30 07:48:55 - [✓] Se detectó y cerró un elemento: C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png
+2025-07-30 07:48:59 - [✓] Se detectó y cerró un elemento: C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png
+2025-07-30 07:49:01 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-07-30 07:49:03 - Click en botón Programar
+2025-07-30 07:49:29 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-07-30 07:49:29 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-07-30 07:49:29 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-07-30 07:49:29 - [–] No se detectaron elementos opcionales (cerrar, omitir, etc.)
+2025-07-30 07:49:31 - [✓] Se detectó y se seleccionó: Fixtures\fecha.png
+2025-07-30 07:49:36 - Día seleccionado
+2025-07-30 07:49:41 - [✓] Imagen detectada: Fixtures\horas\9_00am.png en Box(left=np.int64(719), top=np.int64(692), width=91, height=37)
+2025-07-30 07:52:47 - Iniciando automatización de programación de clases
+2025-07-30 07:52:51 - Actividad simulada para activar pantalla
+2025-07-30 07:52:53 - Cursor movido para evitar FAILSAFE
+2025-07-30 07:52:53 - 0_Captura de pantalla inicial guardada
+2025-07-30 07:52:54 - Navegador abierto
+2025-07-30 07:53:04 - [!] Error en el intento 1 buscando imagen Fixtures\actualizar.png: 
+2025-07-30 07:53:05 - [!] Error en el intento 2 buscando imagen Fixtures\actualizar.png: 
+2025-07-30 07:53:07 - [!] Error en el intento 3 buscando imagen Fixtures\actualizar.png: 
+2025-07-30 07:53:08 - [✗] No se logró detectar la imagen Fixtures\actualizar.png después de 3 intentos.
+2025-07-30 07:53:13 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-07-30 07:53:13 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-07-30 07:53:13 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-07-30 07:53:13 - [–] No se detectaron elementos opcionales (cerrar, omitir, etc.)
+2025-07-30 07:53:15 - Click en botón Programar
+2025-07-30 07:53:41 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-07-30 07:53:42 - [✓] Se detectó y cerró un elemento: C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png
+2025-07-30 07:53:45 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-07-30 07:53:46 - [✓] Se detectó y se seleccionó: Fixtures\fecha.png
+2025-07-30 07:53:51 - Día seleccionado
+2025-07-30 07:53:57 - [✓] Imagen detectada: Fixtures\horas\9_00am.png en Box(left=np.int64(719), top=np.int64(692), width=91, height=37)
+2025-07-30 07:54:02 - [!] Error en el intento 1 buscando imagen Fixtures\programar.png: 
+2025-07-30 07:54:03 - [!] Error en el intento 2 buscando imagen Fixtures\programar.png: 
+2025-07-30 07:54:04 - [!] Error en el intento 3 buscando imagen Fixtures\programar.png: 
+2025-07-30 07:54:05 - [✗] No se logró detectar la imagen Fixtures\programar.png después de 3 intentos.
+2025-07-30 07:54:05 - Primera hora programada 9_00am
+2025-07-30 07:54:12 - Click en botón Programar
+2025-07-30 07:54:37 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-07-30 07:54:38 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-07-30 07:54:38 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-07-30 07:54:38 - [–] No se detectaron elementos opcionales (cerrar, omitir, etc.)
+2025-07-30 07:54:38 - [!] Error en el intento 1 buscando imagen Fixtures\fecha.png: 
+2025-07-30 07:54:39 - [!] Error en el intento 2 buscando imagen Fixtures\fecha.png: 
+2025-07-30 07:54:41 - [!] Error en el intento 3 buscando imagen Fixtures\fecha.png: 
+2025-07-30 07:54:42 - [✗] No se logró detectar la imagen Fixtures\fecha.png después de 3 intentos.
+2025-07-30 07:54:42 - No se detectó la imagen 'fecha.png'. Cancelando ejecución.
+2025-07-30 07:56:45 - Iniciando automatización de programación de clases
+2025-07-30 07:56:50 - Actividad simulada para activar pantalla
+2025-07-30 07:56:51 - Cursor movido para evitar FAILSAFE
+2025-07-30 07:56:52 - 0_Captura de pantalla inicial guardada
+2025-07-30 07:56:52 - Navegador abierto
+2025-07-30 07:57:03 - [!] Error en el intento 1 buscando imagen Fixtures\actualizar.png: 
+2025-07-30 07:57:04 - [!] Error en el intento 2 buscando imagen Fixtures\actualizar.png: 
+2025-07-30 07:57:05 - [!] Error en el intento 3 buscando imagen Fixtures\actualizar.png: 
+2025-07-30 07:57:06 - [✗] No se logró detectar la imagen Fixtures\actualizar.png después de 3 intentos.
+2025-07-30 07:57:11 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-07-30 07:57:12 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-07-30 07:57:12 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-07-30 07:57:12 - [–] No se detectaron elementos opcionales (cerrar, omitir, etc.)
+2025-07-30 07:57:14 - Click en botón Programar
+2025-07-30 07:57:39 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-07-30 07:57:41 - [✓] Se detectó y cerró un elemento: C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png
+2025-07-30 07:57:43 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-07-30 07:57:45 - [✓] Se detectó y se seleccionó: Fixtures\fecha.png
+2025-07-30 07:57:50 - Día seleccionado
+2025-07-30 07:57:55 - [✓] Imagen detectada: Fixtures\horas\9_00am.png en Box(left=np.int64(719), top=np.int64(692), width=91, height=37)
+2025-07-30 07:58:02 - [✓] Se detectó y se seleccionó: Fixtures\programar.png
+2025-07-30 07:58:05 - Primera hora programada 9_00am
+2025-07-30 07:58:13 - Click en botón Programar
+2025-07-30 07:58:38 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-07-30 07:58:39 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-07-30 07:58:39 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-07-30 07:58:39 - [–] No se detectaron elementos opcionales (cerrar, omitir, etc.)
+2025-07-30 07:58:41 - [✓] Se detectó y se seleccionó: Fixtures\fecha.png
+2025-07-30 07:58:46 - Día seleccionado
+2025-07-30 07:58:51 - [!] Error buscando imagen Fixtures\horas\10_40am.png: 
+2025-07-30 07:58:51 - ERROR: 'NoneType' object is not subscriptable
+2025-07-30 07:58:51 - Captura de pantalla de error guardada como error_20250730_075851.png
+2025-07-30 07:59:08 - Iniciando automatización de programación de clases
+2025-07-30 07:59:13 - Actividad simulada para activar pantalla
+2025-07-30 07:59:14 - Cursor movido para evitar FAILSAFE
+2025-07-30 07:59:15 - 0_Captura de pantalla inicial guardada
+2025-07-30 07:59:15 - Navegador abierto
+2025-07-30 07:59:25 - [!] Error en el intento 1 buscando imagen Fixtures\actualizar.png: 
+2025-07-30 07:59:27 - [!] Error en el intento 2 buscando imagen Fixtures\actualizar.png: 
+2025-07-30 07:59:28 - [!] Error en el intento 3 buscando imagen Fixtures\actualizar.png: 
+2025-07-30 07:59:29 - [✗] No se logró detectar la imagen Fixtures\actualizar.png después de 3 intentos.
+2025-07-30 07:59:34 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-07-30 07:59:34 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-07-30 07:59:35 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-07-30 07:59:35 - [–] No se detectaron elementos opcionales (cerrar, omitir, etc.)
+2025-07-30 07:59:36 - Click en botón Programar
+2025-07-30 08:00:02 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-07-30 08:00:04 - [✓] Se detectó y cerró un elemento: C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png
+2025-07-30 08:00:06 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-07-30 08:00:08 - [✓] Se detectó y se seleccionó: Fixtures\fecha.png
+2025-07-30 08:00:13 - Día seleccionado
+2025-07-30 08:00:18 - [✓] Imagen detectada: Fixtures\horas\9_00am.png en Box(left=np.int64(719), top=np.int64(692), width=91, height=37)
+2025-07-30 08:00:23 - [!] Error en el intento 1 buscando imagen Fixtures\programar.png: 
+2025-07-30 08:00:24 - [!] Error en el intento 2 buscando imagen Fixtures\programar.png: 
+2025-07-30 08:00:26 - [!] Error en el intento 3 buscando imagen Fixtures\programar.png: 
+2025-07-30 08:00:27 - [✗] No se logró detectar la imagen Fixtures\programar.png después de 3 intentos.
+2025-07-30 08:00:27 - Primera hora programada 9_00am
+2025-07-30 08:00:35 - Click en botón Programar
+2025-07-30 08:01:00 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-07-30 08:01:02 - [✓] Se detectó y cerró un elemento: C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png
+2025-07-30 08:01:04 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-07-30 08:01:06 - [✓] Se detectó y se seleccionó: Fixtures\fecha.png
+2025-07-30 08:01:11 - Día seleccionado
+2025-07-30 08:01:16 - [✓] Imagen detectada: Fixtures\horas\10_40am.png en Box(left=np.int64(728), top=np.int64(756), width=80, height=25)
+2025-08-04 02:48:04 - Iniciando automatización de programación de clases
+2025-08-04 02:48:09 - Actividad simulada para activar pantalla
+2025-08-04 02:48:11 - Cursor movido para evitar FAILSAFE
+2025-08-04 02:48:11 - 0_Captura de pantalla inicial guardada
+2025-08-04 02:48:11 - Navegador abierto
+2025-08-04 02:48:21 - [!] Error en el intento 1 buscando imagen Fixtures\actualizar.png: 
+2025-08-04 02:48:23 - [!] Error en el intento 2 buscando imagen Fixtures\actualizar.png: 
+2025-08-04 02:48:24 - [!] Error en el intento 3 buscando imagen Fixtures\actualizar.png: 
+2025-08-04 02:48:25 - [✗] No se logró detectar la imagen Fixtures\actualizar.png después de 3 intentos.
+2025-08-04 02:48:30 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-08-04 02:48:31 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-08-04 02:48:31 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-08-04 02:48:31 - [–] No se detectaron elementos opcionales (cerrar, omitir, etc.)
+2025-08-04 02:48:32 - Click en botón Programar
+2025-08-04 02:48:58 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-08-04 02:48:58 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-08-04 02:48:58 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-08-04 02:48:58 - [–] No se detectaron elementos opcionales (cerrar, omitir, etc.)
+2025-08-04 02:49:00 - [✓] Se detectó y se seleccionó: Fixtures\fecha.png
+2025-08-04 02:49:05 - Día seleccionado
+2025-08-04 02:49:10 - [✓] Imagen detectada: Fixtures\horas\9_00am.png en Box(left=np.int64(719), top=np.int64(692), width=91, height=37)
+2025-08-04 02:49:17 - [✓] Se detectó y se seleccionó: Fixtures\programar.png
+2025-08-04 02:49:20 - Primera hora programada 9_00am
+2025-08-04 02:49:28 - Click en botón Programar
+2025-08-04 02:49:54 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-08-04 02:49:54 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-08-04 02:49:54 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-08-04 02:49:54 - [–] No se detectaron elementos opcionales (cerrar, omitir, etc.)
+2025-08-04 02:49:56 - [✓] Se detectó y se seleccionó: Fixtures\fecha.png
+2025-08-04 02:50:01 - Día seleccionado
+2025-08-04 02:50:06 - [✓] Imagen detectada: Fixtures\horas\10_40am.png en Box(left=np.int64(728), top=np.int64(578), width=80, height=25)
+2025-08-04 02:50:13 - [✓] Se detectó y se seleccionó: Fixtures\programar.png
+2025-08-04 02:50:16 - Primera hora programada 10_40am
+2025-08-04 02:50:21 - Proceso completado exitosamente
+2025-08-05 02:48:02 - Iniciando automatización de programación de clases
+2025-08-05 02:48:07 - Actividad simulada para activar pantalla
+2025-08-05 02:48:08 - Cursor movido para evitar FAILSAFE
+2025-08-05 02:48:09 - 0_Captura de pantalla inicial guardada
+2025-08-05 02:48:09 - Navegador abierto
+2025-08-05 02:48:19 - [!] Error en el intento 1 buscando imagen Fixtures\actualizar.png: 
+2025-08-05 02:48:21 - [!] Error en el intento 2 buscando imagen Fixtures\actualizar.png: 
+2025-08-05 02:48:22 - [!] Error en el intento 3 buscando imagen Fixtures\actualizar.png: 
+2025-08-05 02:48:23 - [✗] No se logró detectar la imagen Fixtures\actualizar.png después de 3 intentos.
+2025-08-05 02:48:28 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-08-05 02:48:28 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-08-05 02:48:30 - [✓] Se detectó y cerró un elemento: C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png
+2025-08-05 02:48:34 - Click en botón Programar
+2025-08-05 02:48:59 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-08-05 02:49:00 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-08-05 02:49:00 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-08-05 02:49:00 - [–] No se detectaron elementos opcionales (cerrar, omitir, etc.)
+2025-08-05 02:49:02 - [✓] Se detectó y se seleccionó: Fixtures\fecha.png
+2025-08-05 02:49:06 - Día seleccionado
+2025-08-05 02:49:12 - [✓] Imagen detectada: Fixtures\horas\9_00am.png en Box(left=np.int64(719), top=np.int64(692), width=91, height=37)
+2025-08-05 02:49:18 - [✓] Se detectó y se seleccionó: Fixtures\programar.png
+2025-08-05 02:49:21 - Primera hora programada 9_00am
+2025-08-05 02:49:30 - Click en botón Programar
+2025-08-05 02:49:55 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-08-05 02:49:55 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-08-05 02:49:56 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-08-05 02:49:56 - [–] No se detectaron elementos opcionales (cerrar, omitir, etc.)
+2025-08-05 02:49:57 - [✓] Se detectó y se seleccionó: Fixtures\fecha.png
+2025-08-05 02:50:02 - Día seleccionado
+2025-08-05 02:50:07 - [✓] Imagen detectada: Fixtures\horas\10_40am.png en Box(left=np.int64(728), top=np.int64(578), width=80, height=25)
+2025-08-05 02:50:14 - [✓] Se detectó y se seleccionó: Fixtures\programar.png
+2025-08-05 02:50:17 - Primera hora programada 10_40am
+2025-08-05 02:50:22 - Proceso completado exitosamente
+2025-08-06 02:48:03 - Iniciando automatización de programación de clases
+2025-08-06 02:48:07 - Actividad simulada para activar pantalla
+2025-08-06 02:48:09 - Cursor movido para evitar FAILSAFE
+2025-08-06 02:48:09 - 0_Captura de pantalla inicial guardada
+2025-08-06 02:48:09 - Navegador abierto
+2025-08-06 02:48:20 - [!] Error en el intento 1 buscando imagen Fixtures\actualizar.png: 
+2025-08-06 02:48:21 - [!] Error en el intento 2 buscando imagen Fixtures\actualizar.png: 
+2025-08-06 02:48:23 - [!] Error en el intento 3 buscando imagen Fixtures\actualizar.png: 
+2025-08-06 02:48:24 - [✗] No se logró detectar la imagen Fixtures\actualizar.png después de 3 intentos.
+2025-08-06 02:48:29 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-08-06 02:48:29 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-08-06 02:48:29 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-08-06 02:48:29 - [–] No se detectaron elementos opcionales (cerrar, omitir, etc.)
+2025-08-06 02:48:31 - Click en botón Programar
+2025-08-06 02:48:57 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-08-06 02:48:57 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-08-06 02:48:58 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-08-06 02:48:58 - [–] No se detectaron elementos opcionales (cerrar, omitir, etc.)
+2025-08-06 02:48:58 - [!] Error en el intento 1 buscando imagen Fixtures\fecha.png: 
+2025-08-06 02:48:59 - [!] Error en el intento 2 buscando imagen Fixtures\fecha.png: 
+2025-08-06 02:49:00 - [!] Error en el intento 3 buscando imagen Fixtures\fecha.png: 
+2025-08-06 02:49:01 - [✗] No se logró detectar la imagen Fixtures\fecha.png después de 3 intentos.
+2025-08-06 02:49:01 - No se detectó la imagen 'fecha.png'. Cancelando ejecución.
+2025-08-07 02:48:04 - Iniciando automatización de programación de clases
+2025-08-07 02:48:09 - Actividad simulada para activar pantalla
+2025-08-07 02:48:10 - Cursor movido para evitar FAILSAFE
+2025-08-07 02:48:10 - 0_Captura de pantalla inicial guardada
+2025-08-07 02:48:11 - Navegador abierto
+2025-08-07 02:48:21 - [!] Error en el intento 1 buscando imagen Fixtures\actualizar.png: 
+2025-08-07 02:48:22 - [!] Error en el intento 2 buscando imagen Fixtures\actualizar.png: 
+2025-08-07 02:48:24 - [!] Error en el intento 3 buscando imagen Fixtures\actualizar.png: 
+2025-08-07 02:48:25 - [✗] No se logró detectar la imagen Fixtures\actualizar.png después de 3 intentos.
+2025-08-07 02:48:30 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-08-07 02:48:30 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-08-07 02:48:32 - [✓] Se detectó y cerró un elemento: C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png
+2025-08-07 02:48:36 - Click en botón Programar
+2025-08-07 02:49:01 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-08-07 02:49:03 - [✓] Se detectó y cerró un elemento: C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png
+2025-08-07 02:49:05 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-08-07 02:49:07 - [✓] Se detectó y se seleccionó: Fixtures\fecha.png
+2025-08-07 02:49:12 - Día seleccionado
+2025-08-07 02:49:17 - [✓] Imagen detectada: Fixtures\horas\9_00am.png en Box(left=np.int64(719), top=np.int64(692), width=91, height=37)
+2025-08-07 02:49:23 - [✓] Se detectó y se seleccionó: Fixtures\programar.png
+2025-08-07 02:49:26 - Primera hora programada 9_00am
+2025-08-07 02:49:35 - Click en botón Programar
+2025-08-07 02:50:00 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-08-07 02:50:00 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-08-07 02:50:01 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-08-07 02:50:01 - [–] No se detectaron elementos opcionales (cerrar, omitir, etc.)
+2025-08-07 02:50:02 - [✓] Se detectó y se seleccionó: Fixtures\fecha.png
+2025-08-07 02:50:07 - Día seleccionado
+2025-08-07 02:50:13 - [✓] Imagen detectada: Fixtures\horas\10_40am.png en Box(left=np.int64(728), top=np.int64(578), width=80, height=25)
+2025-08-07 02:50:19 - [✓] Se detectó y se seleccionó: Fixtures\programar.png
+2025-08-07 02:50:22 - Primera hora programada 10_40am
+2025-08-07 02:50:27 - Proceso completado exitosamente
+2025-08-11 02:48:04 - Iniciando automatización de programación de clases
+2025-08-11 02:48:09 - Actividad simulada para activar pantalla
+2025-08-11 02:48:11 - Cursor movido para evitar FAILSAFE
+2025-08-11 02:48:11 - 0_Captura de pantalla inicial guardada
+2025-08-11 02:48:11 - Navegador abierto
+2025-08-11 02:48:22 - [!] Error en el intento 1 buscando imagen Fixtures\actualizar.png: 
+2025-08-11 02:48:23 - [!] Error en el intento 2 buscando imagen Fixtures\actualizar.png: 
+2025-08-11 02:48:24 - [!] Error en el intento 3 buscando imagen Fixtures\actualizar.png: 
+2025-08-11 02:48:25 - [✗] No se logró detectar la imagen Fixtures\actualizar.png después de 3 intentos.
+2025-08-11 02:48:31 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-08-11 02:48:31 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-08-11 02:48:31 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-08-11 02:48:31 - [–] No se detectaron elementos opcionales (cerrar, omitir, etc.)
+2025-08-11 02:48:33 - Click en botón Programar
+2025-08-11 02:48:58 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-08-11 02:48:58 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-08-11 02:48:59 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-08-11 02:48:59 - [–] No se detectaron elementos opcionales (cerrar, omitir, etc.)
+2025-08-11 02:49:00 - [✓] Se detectó y se seleccionó: Fixtures\fecha.png
+2025-08-11 02:49:05 - Día seleccionado
+2025-08-11 02:49:11 - [✓] Imagen detectada: Fixtures\horas\9_00am.png en Box(left=np.int64(719), top=np.int64(692), width=91, height=37)
+2025-08-11 02:49:17 - [✓] Se detectó y se seleccionó: Fixtures\programar.png
+2025-08-11 02:49:20 - Primera hora programada 9_00am
+2025-08-11 02:49:28 - Click en botón Programar
+2025-08-11 02:49:54 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-08-11 02:49:54 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-08-11 02:49:54 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-08-11 02:49:54 - [–] No se detectaron elementos opcionales (cerrar, omitir, etc.)
+2025-08-11 02:49:56 - [✓] Se detectó y se seleccionó: Fixtures\fecha.png
+2025-08-11 02:50:01 - Día seleccionado
+2025-08-11 02:50:06 - [✓] Imagen detectada: Fixtures\horas\10_40am.png en Box(left=np.int64(728), top=np.int64(578), width=80, height=25)
+2025-08-11 02:50:13 - [✓] Se detectó y se seleccionó: Fixtures\programar.png
+2025-08-11 02:50:16 - Primera hora programada 10_40am
+2025-08-11 02:50:21 - Proceso completado exitosamente
+2025-08-12 02:48:03 - Iniciando automatización de programación de clases
+2025-08-12 02:48:07 - Actividad simulada para activar pantalla
+2025-08-12 02:48:09 - Cursor movido para evitar FAILSAFE
+2025-08-12 02:48:09 - 0_Captura de pantalla inicial guardada
+2025-08-12 02:48:09 - Navegador abierto
+2025-08-12 02:48:20 - [!] Error en el intento 1 buscando imagen Fixtures\actualizar.png: 
+2025-08-12 02:48:21 - [!] Error en el intento 2 buscando imagen Fixtures\actualizar.png: 
+2025-08-12 02:48:23 - [!] Error en el intento 3 buscando imagen Fixtures\actualizar.png: 
+2025-08-12 02:48:24 - [✗] No se logró detectar la imagen Fixtures\actualizar.png después de 3 intentos.
+2025-08-12 02:48:29 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-08-12 02:48:29 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-08-12 02:48:31 - [✓] Se detectó y cerró un elemento: C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png
+2025-08-12 02:48:35 - Click en botón Programar
+2025-08-12 02:49:00 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-08-12 02:49:00 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-08-12 02:49:01 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-08-12 02:49:01 - [–] No se detectaron elementos opcionales (cerrar, omitir, etc.)
+2025-08-12 02:49:02 - [✓] Se detectó y se seleccionó: Fixtures\fecha.png
+2025-08-12 02:49:07 - Día seleccionado
+2025-08-12 02:49:13 - [✓] Imagen detectada: Fixtures\horas\9_00am.png en Box(left=np.int64(719), top=np.int64(692), width=91, height=37)
+2025-08-12 02:49:19 - [✓] Se detectó y se seleccionó: Fixtures\programar.png
+2025-08-12 02:49:22 - Primera hora programada 9_00am
+2025-08-12 02:49:30 - Click en botón Programar
+2025-08-12 02:49:56 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-08-12 02:49:56 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-08-12 02:49:56 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-08-12 02:49:56 - [–] No se detectaron elementos opcionales (cerrar, omitir, etc.)
+2025-08-12 02:49:58 - [✓] Se detectó y se seleccionó: Fixtures\fecha.png
+2025-08-12 02:50:03 - Día seleccionado
+2025-08-12 02:50:08 - [✓] Imagen detectada: Fixtures\horas\10_40am.png en Box(left=np.int64(728), top=np.int64(578), width=80, height=25)
+2025-08-12 02:50:15 - [✓] Se detectó y se seleccionó: Fixtures\programar.png
+2025-08-12 02:50:18 - Primera hora programada 10_40am
+2025-08-12 02:50:23 - Proceso completado exitosamente
+2025-08-13 02:48:03 - Iniciando automatización de programación de clases
+2025-08-13 02:48:08 - Actividad simulada para activar pantalla
+2025-08-13 02:48:09 - Cursor movido para evitar FAILSAFE
+2025-08-13 02:48:10 - 0_Captura de pantalla inicial guardada
+2025-08-13 02:48:10 - Navegador abierto
+2025-08-13 02:48:20 - [!] Error en el intento 1 buscando imagen Fixtures\actualizar.png: 
+2025-08-13 02:48:22 - [!] Error en el intento 2 buscando imagen Fixtures\actualizar.png: 
+2025-08-13 02:48:23 - [!] Error en el intento 3 buscando imagen Fixtures\actualizar.png: 
+2025-08-13 02:48:24 - [✗] No se logró detectar la imagen Fixtures\actualizar.png después de 3 intentos.
+2025-08-13 02:48:29 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-08-13 02:48:30 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-08-13 02:48:31 - [✓] Se detectó y cerró un elemento: C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png
+2025-08-13 02:48:35 - Click en botón Programar
+2025-08-13 02:49:00 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-08-13 02:49:01 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-08-13 02:49:01 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-08-13 02:49:01 - [–] No se detectaron elementos opcionales (cerrar, omitir, etc.)
+2025-08-13 02:49:03 - [✓] Se detectó y se seleccionó: Fixtures\fecha.png
+2025-08-13 02:49:07 - Día seleccionado
+2025-08-13 02:49:13 - [✓] Imagen detectada: Fixtures\horas\9_00am.png en Box(left=np.int64(719), top=np.int64(692), width=91, height=37)
+2025-08-13 02:49:19 - [✓] Se detectó y se seleccionó: Fixtures\programar.png
+2025-08-13 02:49:22 - Primera hora programada 9_00am
+2025-08-13 02:49:31 - Click en botón Programar
+2025-08-13 02:49:56 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-08-13 02:49:56 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-08-13 02:49:57 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-08-13 02:49:57 - [–] No se detectaron elementos opcionales (cerrar, omitir, etc.)
+2025-08-13 02:49:58 - [✓] Se detectó y se seleccionó: Fixtures\fecha.png
+2025-08-13 02:50:03 - Día seleccionado
+2025-08-13 02:50:09 - [✓] Imagen detectada: Fixtures\horas\10_40am.png en Box(left=np.int64(728), top=np.int64(578), width=80, height=25)
+2025-08-13 02:50:15 - [✓] Se detectó y se seleccionó: Fixtures\programar.png
+2025-08-13 02:50:18 - Primera hora programada 10_40am
+2025-08-13 02:50:23 - Proceso completado exitosamente
+2025-08-14 02:48:04 - Iniciando automatización de programación de clases
+2025-08-14 02:48:09 - Actividad simulada para activar pantalla
+2025-08-14 02:48:11 - Cursor movido para evitar FAILSAFE
+2025-08-14 02:48:11 - 0_Captura de pantalla inicial guardada
+2025-08-14 02:48:11 - Navegador abierto
+2025-08-14 02:48:22 - [!] Error en el intento 1 buscando imagen Fixtures\actualizar.png: 
+2025-08-14 02:48:23 - [!] Error en el intento 2 buscando imagen Fixtures\actualizar.png: 
+2025-08-14 02:48:24 - [!] Error en el intento 3 buscando imagen Fixtures\actualizar.png: 
+2025-08-14 02:48:25 - [✗] No se logró detectar la imagen Fixtures\actualizar.png después de 3 intentos.
+2025-08-14 02:48:31 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-08-14 02:48:31 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-08-14 02:48:32 - [✓] Se detectó y cerró un elemento: C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png
+2025-08-14 02:48:36 - Click en botón Programar
+2025-08-14 02:49:02 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-08-14 02:49:02 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-08-14 02:49:02 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-08-14 02:49:02 - [–] No se detectaron elementos opcionales (cerrar, omitir, etc.)
+2025-08-14 02:49:04 - [✓] Se detectó y se seleccionó: Fixtures\fecha.png
+2025-08-14 02:49:09 - Día seleccionado
+2025-08-14 02:49:14 - [✓] Imagen detectada: Fixtures\horas\9_00am.png en Box(left=np.int64(719), top=np.int64(692), width=91, height=37)
+2025-08-14 02:49:21 - [✓] Se detectó y se seleccionó: Fixtures\programar.png
+2025-08-14 02:49:24 - Primera hora programada 9_00am
+2025-08-14 02:49:32 - Click en botón Programar
+2025-08-14 02:49:57 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-08-14 02:49:58 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-08-14 02:49:58 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-08-14 02:49:58 - [–] No se detectaron elementos opcionales (cerrar, omitir, etc.)
+2025-08-14 02:50:00 - [✓] Se detectó y se seleccionó: Fixtures\fecha.png
+2025-08-14 02:50:04 - Día seleccionado
+2025-08-14 02:50:10 - [✓] Imagen detectada: Fixtures\horas\10_40am.png en Box(left=np.int64(728), top=np.int64(578), width=80, height=25)
+2025-08-14 02:50:16 - [✓] Se detectó y se seleccionó: Fixtures\programar.png
+2025-08-14 02:50:19 - Primera hora programada 10_40am
+2025-08-14 02:50:24 - Proceso completado exitosamente
+2025-08-18 02:48:03 - Iniciando automatización de programación de clases
+2025-08-18 02:48:08 - Actividad simulada para activar pantalla
+2025-08-18 02:48:09 - Cursor movido para evitar FAILSAFE
+2025-08-18 02:48:10 - 0_Captura de pantalla inicial guardada
+2025-08-18 02:48:10 - Navegador abierto
+2025-08-18 02:48:20 - [!] Error en el intento 1 buscando imagen Fixtures\actualizar.png: 
+2025-08-18 02:48:22 - [!] Error en el intento 2 buscando imagen Fixtures\actualizar.png: 
+2025-08-18 02:48:23 - [!] Error en el intento 3 buscando imagen Fixtures\actualizar.png: 
+2025-08-18 02:48:24 - [✗] No se logró detectar la imagen Fixtures\actualizar.png después de 3 intentos.
+2025-08-18 02:48:29 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-08-18 02:48:29 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-08-18 02:48:30 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-08-18 02:48:30 - [–] No se detectaron elementos opcionales (cerrar, omitir, etc.)
+2025-08-18 02:48:31 - Click en botón Programar
+2025-08-18 02:48:57 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-08-18 02:48:59 - [✓] Se detectó y cerró un elemento: C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png
+2025-08-18 02:49:01 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-08-18 02:49:03 - [✓] Se detectó y se seleccionó: Fixtures\fecha.png
+2025-08-18 02:49:07 - Día seleccionado
+2025-08-18 02:49:13 - [✓] Imagen detectada: Fixtures\horas\9_00am.png en Box(left=np.int64(719), top=np.int64(692), width=91, height=37)
+2025-08-18 02:49:19 - [✓] Se detectó y se seleccionó: Fixtures\programar.png
+2025-08-18 02:49:22 - Primera hora programada 9_00am
+2025-08-18 02:49:30 - Click en botón Programar
+2025-08-18 02:49:56 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-08-18 02:49:56 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-08-18 02:49:56 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-08-18 02:49:56 - [–] No se detectaron elementos opcionales (cerrar, omitir, etc.)
+2025-08-18 02:49:58 - [✓] Se detectó y se seleccionó: Fixtures\fecha.png
+2025-08-18 02:50:03 - Día seleccionado
+2025-08-18 02:50:08 - [✓] Imagen detectada: Fixtures\horas\10_40am.png en Box(left=np.int64(728), top=np.int64(578), width=80, height=25)
+2025-08-18 02:50:15 - [✓] Se detectó y se seleccionó: Fixtures\programar.png
+2025-08-18 02:50:18 - Primera hora programada 10_40am
+2025-08-18 02:50:23 - Proceso completado exitosamente
+2025-08-19 02:48:02 - Iniciando automatización de programación de clases
+2025-08-19 02:48:07 - Actividad simulada para activar pantalla
+2025-08-19 02:48:09 - Cursor movido para evitar FAILSAFE
+2025-08-19 02:48:09 - 0_Captura de pantalla inicial guardada
+2025-08-19 02:48:09 - Navegador abierto
+2025-08-19 02:48:19 - [!] Error en el intento 1 buscando imagen Fixtures\actualizar.png: 
+2025-08-19 02:48:21 - [!] Error en el intento 2 buscando imagen Fixtures\actualizar.png: 
+2025-08-19 02:48:22 - [!] Error en el intento 3 buscando imagen Fixtures\actualizar.png: 
+2025-08-19 02:48:23 - [✗] No se logró detectar la imagen Fixtures\actualizar.png después de 3 intentos.
+2025-08-19 02:48:28 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-08-19 02:48:29 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-08-19 02:48:29 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-08-19 02:48:29 - [–] No se detectaron elementos opcionales (cerrar, omitir, etc.)
+2025-08-19 02:48:30 - Click en botón Programar
+2025-08-19 02:48:56 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-08-19 02:48:56 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-08-19 02:48:56 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-08-19 02:48:56 - [–] No se detectaron elementos opcionales (cerrar, omitir, etc.)
+2025-08-19 02:48:58 - [✓] Se detectó y se seleccionó: Fixtures\fecha.png
+2025-08-19 02:49:03 - Día seleccionado
+2025-08-19 02:49:08 - [✓] Imagen detectada: Fixtures\horas\9_00am.png en Box(left=np.int64(719), top=np.int64(692), width=91, height=37)
+2025-08-19 02:49:15 - [✓] Se detectó y se seleccionó: Fixtures\programar.png
+2025-08-19 02:49:18 - Primera hora programada 9_00am
+2025-08-19 02:49:26 - Click en botón Programar
+2025-08-19 02:49:51 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-08-19 02:49:52 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-08-19 02:49:52 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-08-19 02:49:52 - [–] No se detectaron elementos opcionales (cerrar, omitir, etc.)
+2025-08-19 02:49:54 - [✓] Se detectó y se seleccionó: Fixtures\fecha.png
+2025-08-19 02:49:58 - Día seleccionado
+2025-08-19 02:50:04 - [✓] Imagen detectada: Fixtures\horas\10_40am.png en Box(left=np.int64(728), top=np.int64(578), width=80, height=25)
+2025-08-19 02:50:10 - [✓] Se detectó y se seleccionó: Fixtures\programar.png
+2025-08-19 02:50:13 - Primera hora programada 10_40am
+2025-08-19 02:50:19 - Proceso completado exitosamente
+2025-08-20 02:48:03 - Iniciando automatización de programación de clases
+2025-08-20 02:48:08 - Actividad simulada para activar pantalla
+2025-08-20 02:48:09 - Cursor movido para evitar FAILSAFE
+2025-08-20 02:48:09 - 0_Captura de pantalla inicial guardada
+2025-08-20 02:48:10 - Navegador abierto
+2025-08-20 02:48:20 - [!] Error en el intento 1 buscando imagen Fixtures\actualizar.png: 
+2025-08-20 02:48:21 - [!] Error en el intento 2 buscando imagen Fixtures\actualizar.png: 
+2025-08-20 02:48:23 - [!] Error en el intento 3 buscando imagen Fixtures\actualizar.png: 
+2025-08-20 02:48:24 - [✗] No se logró detectar la imagen Fixtures\actualizar.png después de 3 intentos.
+2025-08-20 02:48:29 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-08-20 02:48:29 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-08-20 02:48:31 - [✓] Se detectó y cerró un elemento: C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png
+2025-08-20 02:48:35 - Click en botón Programar
+2025-08-20 02:49:00 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-08-20 02:49:00 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-08-20 02:49:01 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-08-20 02:49:01 - [–] No se detectaron elementos opcionales (cerrar, omitir, etc.)
+2025-08-20 02:49:02 - [✓] Se detectó y se seleccionó: Fixtures\fecha.png
+2025-08-20 02:49:07 - Día seleccionado
+2025-08-20 02:49:12 - [✓] Imagen detectada: Fixtures\horas\9_00am.png en Box(left=np.int64(719), top=np.int64(692), width=91, height=37)
+2025-08-20 02:49:19 - [✓] Se detectó y se seleccionó: Fixtures\programar.png
+2025-08-20 02:49:22 - Primera hora programada 9_00am
+2025-08-20 02:49:30 - Click en botón Programar
+2025-08-20 02:49:56 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-08-20 02:49:56 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-08-20 02:49:56 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-08-20 02:49:56 - [–] No se detectaron elementos opcionales (cerrar, omitir, etc.)
+2025-08-20 02:49:58 - [✓] Se detectó y se seleccionó: Fixtures\fecha.png
+2025-08-20 02:50:03 - Día seleccionado
+2025-08-20 02:50:08 - [✓] Imagen detectada: Fixtures\horas\10_40am.png en Box(left=np.int64(728), top=np.int64(578), width=80, height=25)
+2025-08-20 02:50:15 - [✓] Se detectó y se seleccionó: Fixtures\programar.png
+2025-08-20 02:50:18 - Primera hora programada 10_40am
+2025-08-20 02:50:23 - Proceso completado exitosamente
+2025-08-25 02:48:04 - Iniciando automatización de programación de clases
+2025-08-25 02:48:09 - Actividad simulada para activar pantalla
+2025-08-25 02:48:10 - Cursor movido para evitar FAILSAFE
+2025-08-25 02:48:10 - 0_Captura de pantalla inicial guardada
+2025-08-25 02:48:11 - Navegador abierto
+2025-08-25 02:48:21 - [!] Error en el intento 1 buscando imagen Fixtures\actualizar.png: 
+2025-08-25 02:48:23 - [!] Error en el intento 2 buscando imagen Fixtures\actualizar.png: 
+2025-08-25 02:48:24 - [!] Error en el intento 3 buscando imagen Fixtures\actualizar.png: 
+2025-08-25 02:48:25 - [✗] No se logró detectar la imagen Fixtures\actualizar.png después de 3 intentos.
+2025-08-25 02:48:30 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-08-25 02:48:30 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-08-25 02:48:31 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-08-25 02:48:31 - [–] No se detectaron elementos opcionales (cerrar, omitir, etc.)
+2025-08-25 02:48:32 - Click en botón Programar
+2025-08-25 02:48:58 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-08-25 02:49:00 - [✓] Se detectó y cerró un elemento: C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png
+2025-08-25 02:49:02 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-08-25 02:49:04 - [✓] Se detectó y se seleccionó: Fixtures\fecha.png
+2025-08-25 02:49:08 - Día seleccionado
+2025-08-25 02:49:14 - [✓] Imagen detectada: Fixtures\horas\12_10pm.png en Box(left=np.int64(727), top=np.int64(818), width=82, height=21)
+2025-08-25 02:49:20 - [✓] Se detectó y se seleccionó: Fixtures\programar.png
+2025-08-25 02:49:23 - Primera hora programada 12_10pm
+2025-08-25 02:49:32 - Click en botón Programar
+2025-08-25 02:49:57 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-08-25 02:49:57 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-08-25 02:49:57 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-08-25 02:49:57 - [–] No se detectaron elementos opcionales (cerrar, omitir, etc.)
+2025-08-25 02:49:59 - [✓] Se detectó y se seleccionó: Fixtures\fecha.png
+2025-08-25 02:50:04 - Día seleccionado
+2025-08-25 02:50:10 - [✓] Imagen detectada: Fixtures\horas\1_40pm.png en Box(left=np.int64(726), top=np.int64(580), width=72, height=23)
+2025-08-25 02:50:15 - [!] Error en el intento 1 buscando imagen Fixtures\programar.png: 
+2025-08-25 02:50:16 - [!] Error en el intento 2 buscando imagen Fixtures\programar.png: 
+2025-08-25 02:50:17 - [!] Error en el intento 3 buscando imagen Fixtures\programar.png: 
+2025-08-25 02:50:18 - [✗] No se logró detectar la imagen Fixtures\programar.png después de 3 intentos.
+2025-08-25 02:50:18 - Primera hora programada 1_40pm
+2025-08-25 02:50:23 - Proceso completado exitosamente
+2025-08-25 09:09:04 - Iniciando automatización de programación de clases
+2025-08-25 09:09:09 - Actividad simulada para activar pantalla
+2025-08-25 09:09:10 - Cursor movido para evitar FAILSAFE
+2025-08-25 09:09:11 - 0_Captura de pantalla inicial guardada
+2025-08-25 09:09:11 - Navegador abierto
+2025-08-25 09:09:22 - [!] Error en el intento 1 buscando imagen Fixtures\actualizar.png: 
+2025-08-25 09:09:23 - [!] Error en el intento 2 buscando imagen Fixtures\actualizar.png: 
+2025-08-25 09:09:24 - [!] Error en el intento 3 buscando imagen Fixtures\actualizar.png: 
+2025-08-25 09:09:25 - [✗] No se logró detectar la imagen Fixtures\actualizar.png después de 3 intentos.
+2025-08-25 09:09:30 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-08-25 09:09:31 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-08-25 09:09:31 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-08-25 09:09:31 - [–] No se detectaron elementos opcionales (cerrar, omitir, etc.)
+2025-08-25 09:09:33 - Click en botón Programar
+2025-08-25 09:09:58 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-08-25 09:09:58 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-08-25 09:09:59 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-08-25 09:09:59 - [–] No se detectaron elementos opcionales (cerrar, omitir, etc.)
+2025-08-25 09:10:00 - [✓] Se detectó y se seleccionó: Fixtures\fecha.png
+2025-08-25 09:10:05 - Día seleccionado
+2025-08-25 09:10:11 - [!] Error buscando imagen Fixtures\horas\12_10pm.png: 
+2025-08-25 09:10:11 - ERROR: 'NoneType' object is not subscriptable
+2025-08-25 09:10:11 - Captura de pantalla de error guardada como error_20250825_091011.png
+2025-08-25 09:12:37 - Iniciando automatización de programación de clases
+2025-08-25 09:12:42 - Actividad simulada para activar pantalla
+2025-08-25 09:12:43 - Cursor movido para evitar FAILSAFE
+2025-08-25 09:12:43 - 0_Captura de pantalla inicial guardada
+2025-08-25 09:12:44 - Navegador abierto
+2025-08-25 09:12:54 - [!] Error en el intento 1 buscando imagen Fixtures\actualizar.png: 
+2025-08-25 09:12:56 - [!] Error en el intento 2 buscando imagen Fixtures\actualizar.png: 
+2025-08-25 09:12:57 - [!] Error en el intento 3 buscando imagen Fixtures\actualizar.png: 
+2025-08-25 09:12:58 - [✗] No se logró detectar la imagen Fixtures\actualizar.png después de 3 intentos.
+2025-08-25 09:13:03 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-08-25 09:13:03 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-08-25 09:13:04 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-08-25 09:13:04 - [–] No se detectaron elementos opcionales (cerrar, omitir, etc.)
+2025-08-25 09:13:05 - Click en botón Programar
+2025-08-25 09:13:31 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-08-25 09:13:31 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-08-25 09:13:31 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-08-25 09:13:31 - [–] No se detectaron elementos opcionales (cerrar, omitir, etc.)
+2025-08-25 09:13:33 - [✓] Se detectó y se seleccionó: Fixtures\fecha.png
+2025-08-25 09:13:38 - Día seleccionado
+2025-08-25 09:13:43 - [!] Error buscando imagen Fixtures\horas\12_10pm.png: 
+2025-08-25 09:13:43 - [✗] No se encontró la hora 12_10pm. Cancelando ejecución.
+2025-08-25 09:13:46 - Click en botón Programar
+2025-08-25 09:14:12 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-08-25 09:14:12 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-08-25 09:14:12 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-08-25 09:14:12 - [–] No se detectaron elementos opcionales (cerrar, omitir, etc.)
+2025-08-25 09:14:14 - [✓] Se detectó y se seleccionó: Fixtures\fecha.png
+2025-08-25 09:14:19 - Día seleccionado
+2025-08-25 09:14:24 - [✓] Imagen detectada: Fixtures\horas\1_40pm.png en Box(left=np.int64(726), top=np.int64(580), width=72, height=23)
+2025-08-25 09:14:26 - [✓] Hora 1_40pm seleccionada
+2025-08-25 09:14:29 - [!] Error en el intento 1 buscando imagen Fixtures\programar.png: 
+2025-08-25 09:14:31 - [!] Error en el intento 2 buscando imagen Fixtures\programar.png: 
+2025-08-25 09:14:32 - [!] Error en el intento 3 buscando imagen Fixtures\programar.png: 
+2025-08-25 09:14:33 - [✗] No se logró detectar la imagen Fixtures\programar.png después de 3 intentos.
+2025-08-25 09:14:33 - [✗] No se pudo programar la hora 1_40pm
+2025-08-25 09:14:38 - Proceso completado exitosamente
+2025-08-25 09:16:45 - Iniciando automatización de programación de clases
+2025-08-25 09:16:50 - Actividad simulada para activar pantalla
+2025-08-25 09:16:51 - Cursor movido para evitar FAILSAFE
+2025-08-25 09:16:51 - 0_Captura de pantalla inicial guardada
+2025-08-25 09:16:52 - Navegador abierto
+2025-08-25 09:17:02 - [!] Error en el intento 1 buscando imagen Fixtures\actualizar.png: 
+2025-08-25 09:17:03 - [!] Error en el intento 2 buscando imagen Fixtures\actualizar.png: 
+2025-08-25 09:17:05 - [!] Error en el intento 3 buscando imagen Fixtures\actualizar.png: 
+2025-08-25 09:17:06 - [✗] No se logró detectar la imagen Fixtures\actualizar.png después de 3 intentos.
+2025-08-25 09:17:11 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-08-25 09:17:11 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-08-25 09:17:12 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-08-25 09:17:12 - [–] No se detectaron elementos opcionales (cerrar, omitir, etc.)
+2025-08-25 09:17:13 - Click en botón Programar
+2025-08-25 09:17:39 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-08-25 09:17:39 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-08-25 09:17:39 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-08-25 09:17:39 - [–] No se detectaron elementos opcionales (cerrar, omitir, etc.)
+2025-08-25 09:17:41 - [✓] Se detectó y se seleccionó: Fixtures\fecha.png
+2025-08-25 09:17:46 - Día seleccionado
+2025-08-25 09:17:51 - [!] Error buscando imagen Fixtures\horas\12_10pm.png: 
+2025-08-25 09:17:51 - [✗] No se encontró la hora 12_10pm. Cancelando ejecución.
+2025-08-25 09:17:54 - Click en botón Programar
+2025-08-25 09:18:20 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-08-25 09:18:20 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-08-25 09:18:20 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-08-25 09:18:20 - [–] No se detectaron elementos opcionales (cerrar, omitir, etc.)
+2025-08-25 09:18:22 - [✓] Se detectó y se seleccionó: Fixtures\fecha.png
+2025-08-25 09:18:27 - Día seleccionado
+2025-08-25 09:18:32 - [✓] Imagen detectada: Fixtures\horas\1_40pm.png en Box(left=np.int64(726), top=np.int64(580), width=72, height=23)
+2025-08-25 09:18:34 - [✓] Hora 1_40pm seleccionada
+2025-08-25 09:18:37 - [!] Error en el intento 1 buscando imagen Fixtures\programar.png: 
+2025-08-25 09:18:38 - [!] Error en el intento 2 buscando imagen Fixtures\programar.png: 
+2025-08-25 09:18:40 - [!] Error en el intento 3 buscando imagen Fixtures\programar.png: 
+2025-08-25 09:18:41 - [✗] No se logró detectar la imagen Fixtures\programar.png después de 3 intentos.
+2025-08-25 09:18:41 - [✗] No se pudo programar la hora 1_40pm
+2025-08-25 09:18:46 - Proceso completado exitosamente
+2025-08-27 02:46:03 - Iniciando automatización de programación de clases
+2025-08-27 02:46:08 - Actividad simulada para activar pantalla
+2025-08-27 02:46:09 - Cursor movido para evitar FAILSAFE
+2025-08-27 02:46:10 - 0_Captura de pantalla inicial guardada
+2025-08-27 02:46:10 - Navegador abierto
+2025-08-27 02:46:20 - [!] Error en el intento 1 buscando imagen Fixtures\actualizar.png: 
+2025-08-27 02:46:22 - [!] Error en el intento 2 buscando imagen Fixtures\actualizar.png: 
+2025-08-27 02:46:23 - [!] Error en el intento 3 buscando imagen Fixtures\actualizar.png: 
+2025-08-27 02:46:24 - [✗] No se logró detectar la imagen Fixtures\actualizar.png después de 3 intentos.
+2025-08-27 02:46:29 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-08-27 02:46:29 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-08-27 02:46:30 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-08-27 02:46:30 - [–] No se detectaron elementos opcionales (cerrar, omitir, etc.)
+2025-08-27 02:46:31 - Click en botón Programar
+2025-08-27 02:46:57 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-08-27 02:46:57 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-08-27 02:46:57 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-08-27 02:46:57 - [–] No se detectaron elementos opcionales (cerrar, omitir, etc.)
+2025-08-27 02:46:59 - [✓] Se detectó y se seleccionó: Fixtures\fecha.png
+2025-08-27 02:47:04 - Día seleccionado
+2025-08-27 02:47:04 - ERROR: [Errno 2] No such file or directory: '3: 10_40am_dia.png'
+2025-08-27 02:47:04 - Captura de pantalla de error guardada como error_20250827_024704.png
+2025-08-27 08:42:01 - Iniciando automatización de programación de clases
+2025-08-27 08:42:05 - Actividad simulada para activar pantalla
+2025-08-27 08:42:07 - Cursor movido para evitar FAILSAFE
+2025-08-27 08:42:07 - 0_Captura de pantalla inicial guardada
+2025-08-27 08:42:07 - Navegador abierto
+2025-08-27 08:42:18 - [!] Error en el intento 1 buscando imagen Fixtures\actualizar.png: 
+2025-08-27 08:42:19 - [!] Error en el intento 2 buscando imagen Fixtures\actualizar.png: 
+2025-08-27 08:42:21 - [!] Error en el intento 3 buscando imagen Fixtures\actualizar.png: 
+2025-08-27 08:42:22 - [✗] No se logró detectar la imagen Fixtures\actualizar.png después de 3 intentos.
+2025-08-27 08:42:27 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-08-27 08:42:27 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-08-27 08:42:27 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-08-27 08:42:27 - [–] No se detectaron elementos opcionales (cerrar, omitir, etc.)
+2025-08-27 08:42:29 - Click en botón Programar
+2025-08-27 08:42:55 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-08-27 08:42:55 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-08-27 08:42:55 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-08-27 08:42:55 - [–] No se detectaron elementos opcionales (cerrar, omitir, etc.)
+2025-08-27 08:42:57 - [✓] Se detectó y se seleccionó: Fixtures\fecha.png
+2025-08-27 08:43:02 - Día seleccionado
+2025-08-27 08:43:02 - ERROR: [Errno 2] No such file or directory: '3: 10_40am_dia.png'
+2025-08-27 08:43:02 - Captura de pantalla de error guardada como error_20250827_084302.png
+2025-08-27 08:50:56 - Iniciando automatización de programación de clases
+2025-08-27 08:51:01 - Actividad simulada para activar pantalla
+2025-08-27 08:51:02 - Cursor movido para evitar FAILSAFE
+2025-08-27 08:51:03 - 0_Captura de pantalla inicial guardada
+2025-08-27 08:51:03 - Navegador abierto
+2025-08-27 08:51:14 - [!] Error en el intento 1 buscando imagen Fixtures\actualizar.png: 
+2025-08-27 08:51:15 - [!] Error en el intento 2 buscando imagen Fixtures\actualizar.png: 
+2025-08-27 08:51:16 - [!] Error en el intento 3 buscando imagen Fixtures\actualizar.png: 
+2025-08-27 08:51:17 - [✗] No se logró detectar la imagen Fixtures\actualizar.png después de 3 intentos.
+2025-08-27 08:51:23 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-08-27 08:51:23 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-08-27 08:51:23 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-08-27 08:51:23 - [–] No se detectaron elementos opcionales (cerrar, omitir, etc.)
+2025-08-27 08:51:25 - Click en botón Programar
+2025-08-27 08:51:50 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-08-27 08:51:51 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-08-27 08:51:51 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-08-27 08:51:51 - [–] No se detectaron elementos opcionales (cerrar, omitir, etc.)
+2025-08-27 08:51:53 - [✓] Se detectó y se seleccionó: Fixtures\fecha.png
+2025-08-27 08:51:58 - Día seleccionado
+2025-08-27 08:52:03 - [✓] Imagen detectada: Fixtures\horas\10_40am.png en Box(left=np.int64(728), top=np.int64(756), width=80, height=25)
+2025-08-27 08:52:05 - [✓] Hora 10_40am seleccionada
+2025-08-27 08:52:08 - [!] Error en el intento 1 buscando imagen Fixtures\programar.png: 
+2025-08-27 08:52:09 - [!] Error en el intento 2 buscando imagen Fixtures\programar.png: 
+2025-08-27 08:52:11 - [!] Error en el intento 3 buscando imagen Fixtures\programar.png: 
+2025-08-27 08:52:12 - [✗] No se logró detectar la imagen Fixtures\programar.png después de 3 intentos.
+2025-08-27 08:52:12 - [✗] No se pudo programar la hora 10_40am
+2025-08-27 08:52:20 - Click en botón Programar
+2025-08-27 08:52:46 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-08-27 08:52:46 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-08-27 08:52:46 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-08-27 08:52:46 - [–] No se detectaron elementos opcionales (cerrar, omitir, etc.)
+2025-08-27 08:52:48 - [✓] Se detectó y se seleccionó: Fixtures\fecha.png
+2025-08-27 08:52:53 - Día seleccionado
+2025-08-27 08:52:58 - [✓] Imagen detectada: Fixtures\horas\12_10pm.png en Box(left=np.int64(727), top=np.int64(818), width=82, height=21)
+2025-08-27 08:53:00 - [✓] Hora 12_10pm seleccionada
+2025-08-27 08:53:03 - [!] Error en el intento 1 buscando imagen Fixtures\programar.png: 
+2025-08-27 08:53:05 - [!] Error en el intento 2 buscando imagen Fixtures\programar.png: 
+2025-08-27 08:53:06 - [!] Error en el intento 3 buscando imagen Fixtures\programar.png: 
+2025-08-27 08:53:07 - [✗] No se logró detectar la imagen Fixtures\programar.png después de 3 intentos.
+2025-08-27 08:53:07 - [✗] No se pudo programar la hora 12_10pm
+2025-08-27 08:53:12 - Proceso completado exitosamente
+2025-08-28 02:46:04 - Iniciando automatización de programación de clases
+2025-08-28 02:46:09 - Actividad simulada para activar pantalla
+2025-08-28 02:46:10 - Cursor movido para evitar FAILSAFE
+2025-08-28 02:46:10 - 0_Captura de pantalla inicial guardada
+2025-08-28 02:46:11 - Navegador abierto
+2025-08-28 02:46:21 - [!] Error en el intento 1 buscando imagen Fixtures\actualizar.png: 
+2025-08-28 02:46:22 - [!] Error en el intento 2 buscando imagen Fixtures\actualizar.png: 
+2025-08-28 02:46:24 - [!] Error en el intento 3 buscando imagen Fixtures\actualizar.png: 
+2025-08-28 02:46:25 - [✗] No se logró detectar la imagen Fixtures\actualizar.png después de 3 intentos.
+2025-08-28 02:46:30 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-08-28 02:46:30 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-08-28 02:46:32 - [✓] Se detectó y cerró un elemento: C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png
+2025-08-28 02:46:36 - Click en botón Programar
+2025-08-28 02:47:01 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-08-28 02:47:03 - [✓] Se detectó y cerró un elemento: C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png
+2025-08-28 02:47:05 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-08-28 02:47:07 - [✓] Se detectó y se seleccionó: Fixtures\fecha.png
+2025-08-28 02:47:11 - Día seleccionado
+2025-08-28 02:47:17 - [✓] Imagen detectada: Fixtures\horas\10_40am.png en Box(left=np.int64(728), top=np.int64(756), width=80, height=25)
+2025-08-28 02:47:18 - [✓] Hora 10_40am seleccionada
+2025-08-28 02:47:23 - [✓] Se detectó y se seleccionó: Fixtures\programar.png
+2025-08-28 02:47:26 - Primera hora programada 10_40am
+2025-08-28 02:47:35 - Click en botón Programar
+2025-08-28 02:48:00 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-08-28 02:48:00 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-08-28 02:48:01 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-08-28 02:48:01 - [–] No se detectaron elementos opcionales (cerrar, omitir, etc.)
+2025-08-28 02:48:02 - [✓] Se detectó y se seleccionó: Fixtures\fecha.png
+2025-08-28 02:48:07 - Día seleccionado
+2025-08-28 02:48:13 - [✓] Imagen detectada: Fixtures\horas\12_10pm.png en Box(left=np.int64(727), top=np.int64(581), width=82, height=21)
+2025-08-28 02:48:14 - [✓] Hora 12_10pm seleccionada
+2025-08-28 02:48:19 - [✓] Se detectó y se seleccionó: Fixtures\programar.png
+2025-08-28 02:48:22 - Primera hora programada 12_10pm
+2025-08-28 02:48:27 - Proceso completado exitosamente
+2025-09-01 02:46:05 - Iniciando automatización de programación de clases
+2025-09-01 02:46:09 - Actividad simulada para activar pantalla
+2025-09-01 02:46:11 - Cursor movido para evitar FAILSAFE
+2025-09-01 02:46:11 - 0_Captura de pantalla inicial guardada
+2025-09-01 02:46:11 - Navegador abierto
+2025-09-01 02:46:22 - [!] Error en el intento 1 buscando imagen Fixtures\actualizar.png: 
+2025-09-01 02:46:23 - [!] Error en el intento 2 buscando imagen Fixtures\actualizar.png: 
+2025-09-01 02:46:24 - [!] Error en el intento 3 buscando imagen Fixtures\actualizar.png: 
+2025-09-01 02:46:25 - [✗] No se logró detectar la imagen Fixtures\actualizar.png después de 3 intentos.
+2025-09-01 02:46:30 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-09-01 02:46:31 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-09-01 02:46:31 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-09-01 02:46:31 - [–] No se detectaron elementos opcionales (cerrar, omitir, etc.)
+2025-09-01 02:46:33 - Click en botón Programar
+2025-09-01 02:46:58 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-09-01 02:46:58 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-09-01 02:46:58 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-09-01 02:46:58 - [–] No se detectaron elementos opcionales (cerrar, omitir, etc.)
+2025-09-01 02:47:00 - [✓] Se detectó y se seleccionó: Fixtures\fecha.png
+2025-09-01 02:47:05 - Día seleccionado
+2025-09-01 02:47:10 - [✓] Imagen detectada: Fixtures\horas\12_10pm.png en Box(left=np.int64(727), top=np.int64(818), width=82, height=21)
+2025-09-01 02:47:12 - [✓] Hora 12_10pm seleccionada
+2025-09-01 02:47:17 - [✓] Se detectó y se seleccionó: Fixtures\programar.png
+2025-09-01 02:47:20 - Primera hora programada 12_10pm
+2025-09-01 02:47:28 - Click en botón Programar
+2025-09-01 02:47:54 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-09-01 02:47:54 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-09-01 02:47:54 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-09-01 02:47:54 - [–] No se detectaron elementos opcionales (cerrar, omitir, etc.)
+2025-09-01 02:47:56 - [✓] Se detectó y se seleccionó: Fixtures\fecha.png
+2025-09-01 02:48:01 - Día seleccionado
+2025-09-01 02:48:06 - [✓] Imagen detectada: Fixtures\horas\1_40pm.png en Box(left=np.int64(726), top=np.int64(580), width=72, height=23)
+2025-09-01 02:48:08 - [✓] Hora 1_40pm seleccionada
+2025-09-01 02:48:13 - [✓] Se detectó y se seleccionó: Fixtures\programar.png
+2025-09-01 02:48:16 - Primera hora programada 1_40pm
+2025-09-01 02:48:21 - Proceso completado exitosamente
+2025-09-02 02:46:02 - Iniciando automatización de programación de clases
+2025-09-02 02:46:07 - Actividad simulada para activar pantalla
+2025-09-02 02:46:08 - Cursor movido para evitar FAILSAFE
+2025-09-02 02:46:09 - 0_Captura de pantalla inicial guardada
+2025-09-02 02:46:09 - Navegador abierto
+2025-09-02 02:46:19 - [!] Error en el intento 1 buscando imagen Fixtures\actualizar.png: 
+2025-09-02 02:46:21 - [!] Error en el intento 2 buscando imagen Fixtures\actualizar.png: 
+2025-09-02 02:46:22 - [!] Error en el intento 3 buscando imagen Fixtures\actualizar.png: 
+2025-09-02 02:46:23 - [✗] No se logró detectar la imagen Fixtures\actualizar.png después de 3 intentos.
+2025-09-02 02:46:28 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-09-02 02:46:28 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-09-02 02:46:30 - [✓] Se detectó y cerró un elemento: C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png
+2025-09-02 02:46:34 - Click en botón Programar
+2025-09-02 02:46:59 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-09-02 02:47:00 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-09-02 02:47:00 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-09-02 02:47:00 - [–] No se detectaron elementos opcionales (cerrar, omitir, etc.)
+2025-09-02 02:47:02 - [✓] Se detectó y se seleccionó: Fixtures\fecha.png
+2025-09-02 02:47:06 - Día seleccionado
+2025-09-02 02:47:12 - [!] Error buscando imagen Fixtures\horas\12_10pm.png: 
+2025-09-02 02:47:12 - [✗] No se encontró la hora 12_10pm. Cancelando ejecución.
+2025-09-02 02:47:15 - Click en botón Programar
+2025-09-02 02:47:40 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-09-02 02:47:40 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-09-02 02:47:41 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-09-02 02:47:41 - [–] No se detectaron elementos opcionales (cerrar, omitir, etc.)
+2025-09-02 02:47:42 - [✓] Se detectó y se seleccionó: Fixtures\fecha.png
+2025-09-02 02:47:47 - Día seleccionado
+2025-09-02 02:47:53 - [!] Error buscando imagen Fixtures\horas\1_40pm.png: 
+2025-09-02 02:47:53 - [✗] No se encontró la hora 1_40pm. Cancelando ejecución.
+2025-09-02 02:47:53 - Proceso completado exitosamente
+2025-09-05 09:15:29 - Iniciando automatización de programación de clases
+2025-09-05 09:15:34 - Actividad simulada para activar pantalla
+2025-09-05 09:15:35 - Cursor movido para evitar FAILSAFE
+2025-09-05 09:15:36 - 0_Captura de pantalla inicial guardada
+2025-09-05 09:15:36 - Navegador abierto
+2025-09-05 09:15:47 - [!] Error en el intento 1 buscando imagen Fixtures\actualizar.png: 
+2025-09-05 09:15:48 - [!] Error en el intento 2 buscando imagen Fixtures\actualizar.png: 
+2025-09-05 09:15:49 - [!] Error en el intento 3 buscando imagen Fixtures\actualizar.png: 
+2025-09-05 09:15:50 - [✗] No se logró detectar la imagen Fixtures\actualizar.png después de 3 intentos.
+2025-09-05 09:15:56 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-09-05 09:15:56 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-09-05 09:15:56 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-09-05 09:15:56 - [–] No se detectaron elementos opcionales (cerrar, omitir, etc.)
+2025-09-05 09:15:58 - Click en botón Programar
+2025-09-05 09:16:23 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-09-05 09:16:23 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-09-05 09:16:24 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-09-05 09:16:24 - [–] No se detectaron elementos opcionales (cerrar, omitir, etc.)
+2025-09-05 09:16:25 - [✓] Se detectó y se seleccionó: Fixtures\fecha.png
+2025-09-05 09:16:29 - [!] Error en el intento 1 buscando imagen Fixtures\lunes: Failed to read Fixtures\lunes because file is missing, has improper permissions, or is an unsupported or invalid format
+2025-09-05 09:16:30 - [!] Error en el intento 2 buscando imagen Fixtures\lunes: Failed to read Fixtures\lunes because file is missing, has improper permissions, or is an unsupported or invalid format
+2025-09-05 09:16:31 - [!] Error en el intento 3 buscando imagen Fixtures\lunes: Failed to read Fixtures\lunes because file is missing, has improper permissions, or is an unsupported or invalid format
+2025-09-05 09:16:32 - [✗] No se logró detectar la imagen Fixtures\lunes después de 3 intentos.
+2025-09-05 09:16:32 - No se detectó la imagen 'fecha.png'. Cancelando ejecución.
+2025-09-05 09:17:12 - Iniciando automatización de programación de clases
+2025-09-05 09:17:17 - Actividad simulada para activar pantalla
+2025-09-05 09:17:18 - Cursor movido para evitar FAILSAFE
+2025-09-05 09:17:19 - 0_Captura de pantalla inicial guardada
+2025-09-05 09:17:19 - Navegador abierto
+2025-09-05 09:17:29 - [!] Error en el intento 1 buscando imagen Fixtures\actualizar.png: 
+2025-09-05 09:17:31 - [!] Error en el intento 2 buscando imagen Fixtures\actualizar.png: 
+2025-09-05 09:17:32 - [!] Error en el intento 3 buscando imagen Fixtures\actualizar.png: 
+2025-09-05 09:17:33 - [✗] No se logró detectar la imagen Fixtures\actualizar.png después de 3 intentos.
+2025-09-05 09:17:38 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-09-05 09:17:38 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-09-05 09:17:39 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-09-05 09:17:39 - [–] No se detectaron elementos opcionales (cerrar, omitir, etc.)
+2025-09-05 09:17:40 - Click en botón Programar
+2025-09-05 09:18:06 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-09-05 09:18:06 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-09-05 09:18:06 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-09-05 09:18:06 - [–] No se detectaron elementos opcionales (cerrar, omitir, etc.)
+2025-09-05 09:18:08 - [✓] Se detectó y se seleccionó: Fixtures\fecha.png
+2025-09-05 09:18:13 - [✓] Se detectó y se seleccionó: Fixtures\lunes.png
+2025-09-05 09:18:16 - Día seleccionado
+2025-09-05 09:18:21 - [!] Error buscando imagen Fixtures\horas\12_10pm.png: 
+2025-09-05 09:18:21 - [✗] No se encontró la hora 12_10pm. Cancelando ejecución.
+2025-09-05 09:18:25 - Click en botón Programar
+2025-09-05 09:21:13 - Iniciando automatización de programación de clases
+2025-09-05 09:21:18 - Actividad simulada para activar pantalla
+2025-09-05 09:21:20 - Cursor movido para evitar FAILSAFE
+2025-09-05 09:21:20 - 0_Captura de pantalla inicial guardada
+2025-09-05 09:21:20 - Navegador abierto
+2025-09-05 09:21:31 - [!] Error en el intento 1 buscando imagen Fixtures\actualizar.png: 
+2025-09-05 09:21:32 - [!] Error en el intento 2 buscando imagen Fixtures\actualizar.png: 
+2025-09-05 09:21:33 - [!] Error en el intento 3 buscando imagen Fixtures\actualizar.png: 
+2025-09-05 09:21:34 - [✗] No se logró detectar la imagen Fixtures\actualizar.png después de 3 intentos.
+2025-09-05 09:21:39 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-09-05 09:21:40 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-09-05 09:21:40 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-09-05 09:21:40 - [–] No se detectaron elementos opcionales (cerrar, omitir, etc.)
+2025-09-05 09:21:42 - Click en botón Programar
+2025-09-05 09:22:07 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-09-05 09:22:09 - [✓] Se detectó y cerró un elemento: C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png
+2025-09-05 09:22:11 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-09-05 09:22:13 - [✓] Se detectó y se seleccionó: Fixtures\fecha.png
+2025-09-05 09:22:18 - [✓] Se detectó y se seleccionó: Fixtures\lunes.png
+2025-09-05 09:22:21 - Día seleccionado
+2025-09-05 09:22:26 - [!] Error buscando imagen Fixtures\horas\10_40pm.png: Failed to read Fixtures\horas\10_40pm.png because file is missing, has improper permissions, or is an unsupported or invalid format
+2025-09-05 09:22:26 - [✗] No se encontró la hora 10_40pm. Cancelando ejecución.
+2025-09-05 09:22:29 - Click en botón Programar
+2025-09-05 09:22:55 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-09-05 09:22:55 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-09-05 09:22:55 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-09-05 09:22:55 - [–] No se detectaron elementos opcionales (cerrar, omitir, etc.)
+2025-09-05 09:22:55 - [!] Error en el intento 1 buscando imagen Fixtures\fecha.png: 
+2025-09-05 09:23:11 - Iniciando automatización de programación de clases
+2025-09-05 09:23:16 - Actividad simulada para activar pantalla
+2025-09-05 09:23:17 - Cursor movido para evitar FAILSAFE
+2025-09-05 09:23:18 - 0_Captura de pantalla inicial guardada
+2025-09-05 09:23:18 - Navegador abierto
+2025-09-05 09:23:28 - [!] Error en el intento 1 buscando imagen Fixtures\actualizar.png: 
+2025-09-05 09:23:30 - [!] Error en el intento 2 buscando imagen Fixtures\actualizar.png: 
+2025-09-05 09:23:31 - [!] Error en el intento 3 buscando imagen Fixtures\actualizar.png: 
+2025-09-05 09:23:32 - [✗] No se logró detectar la imagen Fixtures\actualizar.png después de 3 intentos.
+2025-09-05 09:23:37 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-09-05 09:23:37 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-09-05 09:23:38 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-09-05 09:23:38 - [–] No se detectaron elementos opcionales (cerrar, omitir, etc.)
+2025-09-05 09:23:39 - Click en botón Programar
+2025-09-05 09:24:05 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-09-05 09:24:07 - [✓] Se detectó y cerró un elemento: C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png
+2025-09-05 09:24:09 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-09-05 09:24:11 - [✓] Se detectó y se seleccionó: Fixtures\fecha.png
+2025-09-05 09:24:16 - [✓] Se detectó y se seleccionó: Fixtures\lunes.png
+2025-09-05 09:24:19 - Día seleccionado
+2025-09-05 09:24:24 - [✓] Imagen detectada: Fixtures\horas\10_40am.png en Box(left=np.int64(728), top=np.int64(756), width=80, height=25)
+2025-09-05 09:24:26 - [✓] Hora 10_40am seleccionada
+2025-09-05 09:24:31 - [✓] Se detectó y se seleccionó: Fixtures\programar.png
+2025-09-05 09:24:34 - Primera hora programada 10_40am
+2025-09-05 09:24:42 - Click en botón Programar
+2025-09-05 09:25:07 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-09-05 09:25:07 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-09-05 09:25:08 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-09-05 09:25:08 - [–] No se detectaron elementos opcionales (cerrar, omitir, etc.)
+2025-09-05 09:25:09 - [✓] Se detectó y se seleccionó: Fixtures\fecha.png
+2025-09-05 09:25:14 - [✓] Se detectó y se seleccionó: Fixtures\lunes.png
+2025-09-05 09:25:17 - Día seleccionado
+2025-09-05 09:25:23 - [✓] Imagen detectada: Fixtures\horas\12_10pm.png en Box(left=np.int64(727), top=np.int64(581), width=82, height=21)
+2025-09-05 09:25:24 - [✓] Hora 12_10pm seleccionada
+2025-09-05 09:25:29 - [✓] Se detectó y se seleccionó: Fixtures\programar.png
+2025-09-05 09:25:32 - Primera hora programada 12_10pm
+2025-09-05 09:25:38 - Proceso completado exitosamente
+2025-09-05 09:28:26 - Iniciando automatización de programación de clases
+2025-09-05 09:28:31 - Actividad simulada para activar pantalla
+2025-09-05 09:28:33 - Cursor movido para evitar FAILSAFE
+2025-09-05 09:28:33 - 0_Captura de pantalla inicial guardada
+2025-09-05 09:28:33 - Navegador abierto
+2025-09-05 09:28:44 - [!] Error en el intento 1 buscando imagen Fixtures\actualizar.png: 
+2025-09-05 09:28:45 - [!] Error en el intento 2 buscando imagen Fixtures\actualizar.png: 
+2025-09-05 09:28:46 - [!] Error en el intento 3 buscando imagen Fixtures\actualizar.png: 
+2025-09-05 09:28:47 - [✗] No se logró detectar la imagen Fixtures\actualizar.png después de 3 intentos.
+2025-09-05 09:28:52 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-09-05 09:28:53 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-09-05 09:28:53 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-09-05 09:28:53 - [–] No se detectaron elementos opcionales (cerrar, omitir, etc.)
+2025-09-05 09:28:55 - Click en botón Programar
+2025-09-05 09:29:20 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-09-05 09:29:22 - [✓] Se detectó y cerró un elemento: C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png
+2025-09-05 09:29:24 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-09-05 09:29:26 - [✓] Se detectó y se seleccionó: Fixtures\fecha.png
+2025-09-05 09:29:31 - [✓] Se detectó y se seleccionó: Fixtures\lunes.png
+2025-09-05 09:29:34 - Día seleccionado
+2025-09-05 09:29:39 - [✓] Imagen detectada: Fixtures\horas\10_40am.png en Box(left=np.int64(728), top=np.int64(756), width=80, height=25)
+2025-09-05 09:29:41 - [✓] Hora 10_40am seleccionada
+2025-09-05 09:29:46 - [✓] Se detectó y se seleccionó: Fixtures\programar.png
+2025-09-05 09:29:49 - Primera hora programada 10_40am
+2025-09-05 09:29:57 - Click en botón Programar
+2025-09-05 09:30:22 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\cerrar_popup.png: 
+2025-09-05 09:30:23 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\entiendo.png: 
+2025-09-05 09:30:23 - [!] Error buscando imagen C:\Users\user\Documents\Codica\Programador clases\Fixtures\avisos\omitir.png: 
+2025-09-05 09:30:23 - [–] No se detectaron elementos opcionales (cerrar, omitir, etc.)
+2025-09-05 09:30:25 - [✓] Se detectó y se seleccionó: Fixtures\fecha.png
+2025-09-05 09:30:30 - [✓] Se detectó y se seleccionó: Fixtures\lunes.png
+2025-09-05 09:30:33 - Día seleccionado
+2025-09-05 09:30:38 - [✓] Imagen detectada: Fixtures\horas\12_10pm.png en Box(left=np.int64(727), top=np.int64(581), width=82, height=21)
+2025-09-05 09:30:40 - [✓] Hora 12_10pm seleccionada
+2025-09-05 09:30:45 - [✓] Se detectó y se seleccionó: Fixtures\programar.png
+2025-09-05 09:30:48 - Primera hora programada 12_10pm
+2025-09-05 09:30:53 - Proceso completado exitosamente
